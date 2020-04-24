@@ -1,0 +1,6 @@
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA220/Projects/Ch9/Demo/bin/Debug/Demo.exe
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA220/Projects/Ch9/Demo/bin/Debug/Demo.pdb
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA220/Projects/Ch9/Demo/obj/Debug/Demo.csprojAssemblyReference.cache
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA220/Projects/Ch9/Demo/obj/Debug/Demo.csproj.CoreCompileInputs.cache
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA220/Projects/Ch9/Demo/obj/Debug/Demo.exe
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA220/Projects/Ch9/Demo/obj/Debug/Demo.pdb
